@@ -1,0 +1,32 @@
+[
+	{
+		">>--English--<<": "eng->ger",
+		"January": "Januar",
+		"February": "Februar",
+		"March": "März",
+		"April": "April",
+		"May": "Mai",
+		"June": "Juni",
+		"July": "July",
+		"August": "August",
+		"September": "September",
+		"October": "Oktober",
+		"November": "November",
+		"December": "Dezember",
+		"Food": "Essen",
+		"Holidays": "Ferien",
+		"Shopping": "Einkäufe",
+		"Cigarettes": "Zigaretten",
+
+		">>--German--<<": "ger->eng",
+		"Zigaretten": "Cigarettes",
+		"Essen": "Food",
+		"Ferien": "Holidays",
+		"Einkäufe": "Shopping",
+
+		">>--UNCHANGED--<<": "eng->eng",
+		"Transport": "Transport",
+		"Energy Drinks": "Energy Drinks",
+		"": ""
+	}
+]
